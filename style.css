@@ -1,0 +1,48 @@
+.container{
+/*   border: 1px solid black; */
+  width: 1200px;
+  margin: 50px;
+  background-color: #EEEEEE;
+  font-family: 'Coda', cursive;
+  padding-bottom:50px;
+}
+
+#heading{
+/*   border:1px solid black; */
+  padding:0px;
+  margin-top:50px;
+  margin-bottom:0px;
+}
+
+#image{
+  position:relative; 
+  margin-top:0px;
+/*   border:1px solid red; */
+  height:550px;
+}
+
+ img{
+  width: 1000px; 
+  height: 500px;
+  position:absolute;
+  margin:auto;
+  left:0;
+  right:0;
+  top:0;
+  border-radius:5px;
+}
+
+#timeline{
+/*   border:1px solid black; */
+  position:static;
+}
+
+#list {
+  padding:10px;
+  align:center;
+}
+
+#list li{
+  padding:5px;
+  font-size:16px;
+}
